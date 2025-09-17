@@ -1,4 +1,4 @@
-Project Management Dashboard
+Project File Management Dashboard
 
 A full-stack project management dashboard built with Next.js, Node.js, PostgreSQL, and AWS services.
 
